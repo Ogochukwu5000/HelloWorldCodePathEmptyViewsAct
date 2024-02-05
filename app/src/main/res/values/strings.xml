@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldCodePathEmptyViewsAct</string>
+    <string name="Ogo_Intro">Hello World! I am Ogochukwu and I love to learn! I will be graduating soon and I am trying to acquire some new skills.</string>
+    <string name="buttonText">SAY HELLO</string>
+</resources>
